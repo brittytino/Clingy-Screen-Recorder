@@ -14,10 +14,10 @@ const Header: FC = () => {
 					className="w-16"
 					priority
 				/>
-				MediaMaster
+				Clingy Flingy
 			</h1>
 			<p className="text-light-text">
-				Record with Ease, Download Instantly.
+				Record within a Second & Download Instantly.
 			</p>
 		</header>
 	)

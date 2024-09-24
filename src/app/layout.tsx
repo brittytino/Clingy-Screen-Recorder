@@ -7,7 +7,7 @@ import { MediaProvider } from "@/context/MediaContext"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-	title: "Media Master",
+	title: "Clingy Flingy",
 	description: "Screen and audio recorder",
 }
 
